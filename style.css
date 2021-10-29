@@ -11,6 +11,8 @@ body{
 .content img{
    padding-top: 5px;
    padding-left: 5px;
+   width:300px;
+   height:250px;
 }
 .content{
   padding: 5px;
